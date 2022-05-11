@@ -1,0 +1,49 @@
+.container{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif; 
+    color: aqua; 
+
+    padding: 8px 20px 8px;
+}
+
+button{
+    background: #069;
+    color: #fff;
+    font-size: 25px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: 0;
+    border-radius: 5px;
+}
+
+#display {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #fff;
+
+}
+
+body{
+    background: linear-gradient(to right, #0e2399, #0036a4, #0046ae, #0056b6, #0065bd, #0076c8, #0087d1, #0097d9, #00ade5, #00c2ed, #00d7f0, #06ebef);
+
+}
+
+h1{
+    text-shadow: 2px 3px black;
+}
+h2{
+   text-shadow: 2px 3px black;
+}
+
+.container select{
+    text-align: center;
+    font-size: 15px;
+    width: 80px;
+    height: 40px;
+    border: 2px solid aqua;
+    overflow: hidden;
+    background:skyblue;
+    border-radius: 5px;
+}
